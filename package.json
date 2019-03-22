@@ -20,5 +20,14 @@
     "next": "^8.0.3",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emiliano-gl/Basketboard-Web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Emiliano-gl/Basketboard-Web/issues"
+  },
+  "homepage": "https://github.com/Emiliano-gl/Basketboard-Web#readme"
 }
