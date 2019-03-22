@@ -1,0 +1,24 @@
+{
+  "name": "basketboard_web",
+  "version": "1.0.0",
+  "description": "The Basketboard web page and system gestion of teams",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "basketball",
+    "scoreboard",
+    "web",
+    "teams"
+  ],
+  "author": "Emiliano Guerrero",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
